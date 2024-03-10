@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "validate": "node ./_scripts/validate.js",
+  },
+  "author": "Thassilo Martin Schiepanski"
+}
